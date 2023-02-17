@@ -1,0 +1,10 @@
+<plist version="1.0">
+ <dict>
+   <key>Label</key>
+   <string>surfingkeys-server</string>
+   <key>RunAtLoad</key>
+   <true />
+   <key>Program</key>
+   <string>/Users/kvwu/utils/surfingkeys-server/start-server.sh</string>
+  </dict>
+</plist>
